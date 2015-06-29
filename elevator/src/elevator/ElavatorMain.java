@@ -1,6 +1,6 @@
 package elevator;
 
-public class MainElavator {
+public class ElavatorMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
